@@ -1,0 +1,7 @@
+<html>
+<head>
+  <title>My Server</title>
+</head><body><h1>Welcome to my server</h1>
+  <p>This content is rendered with Stencil!</p>
+</body>
+</html>
